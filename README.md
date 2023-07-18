@@ -1,3 +1,5 @@
-<h1 align="center">개발자 이동규입니다</h1>
+<h1 align="center">Lee-Donggyu</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEE DONGGYU&show_icons=true&theme=default)
+<div>
+  <h3 align="center>Language</h3>
+</div>
