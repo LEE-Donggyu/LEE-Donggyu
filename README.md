@@ -24,4 +24,9 @@ Hi, I am Lee. I majored in computer science, worked in big-data analysis for 6 m
     <img alt="eclipseide" src ="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </div>
 
+<br>
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEE-Donggyu&show_icons=true&theme=transparent)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-Donggyu)](https://github.com/anuraghazra/github-readme-stats)
